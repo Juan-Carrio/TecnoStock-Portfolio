@@ -25,7 +25,7 @@ Sistema de gestión de inventario desarrollado en Python como proyecto personal.
 ![Inventario](Capturas/Inventario%20listado.png)
 
 ### Agregar productos
-![Agregar producto](Capturas/Agregar%20producto.png)
+![Agregar producto](Capturas/Agregar producto.png)
 
 ### Editar productos
 ![Editar producto](Capturas/Editar.png)
